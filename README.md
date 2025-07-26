@@ -95,7 +95,7 @@ uv --version
 #### 1. Clone the Repository
 
 ```powershell
-git clone 
+git clone https://github.com/SAUNAK-RAMIYA-SEBASAN/Doc-Based-RAG-Chatbot.git
 cd Doc-Based-RAG-Chatbot
 ```
 
