@@ -1,6 +1,6 @@
 #### Document-Based RAG Chatbot
 
-## 1. Introduction
+## 1. Introduction 
 
 This project implements a **Document-Based Retrieval-Augmented Generation (RAG) Chatbot** designed to answer user questions **strictly from the content** contained within curated PDF and DOCX documents. The chatbot operates **completely offline**, making it ideal for secure, private, or regulated environments where no data leaves the local system. By combining semantic search with powerful language generation, this system delivers accurate, grounded, and auditable answers with clear source citations.
 
